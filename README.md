@@ -4,7 +4,7 @@
 
 
 ## 🌟 Overview
-Bistro Bossis a modern restaurant management system with online ordering capabilities, user authentication, and an admin dashboard.
+Bistro Boss is a modern restaurant management system with online ordering capabilities, user authentication, and an admin dashboard.
 
 ## ✨ Key Features
 - 🛒 Online Food Ordering System
