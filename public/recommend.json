@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Caesar Salad",
+      "description": "Lettuce, Eggs, Parmesan Cheese, Chicken Breast Fillets",
+      "image": "https://example.com/images/caesar_salad.jpg",
+      "price": 12.99,
+      "button": "Add to Cart"
+    },
+    {
+      "id": 2,
+      "name": "Greek Salad",
+      "description": "Lettuce, Tomatoes, Feta Cheese, Kalamata Olives, Cucumber",
+      "image": "https://example.com/images/greek_salad.jpg",
+      "price": 10.99,
+      "button": "Add to Cart"
+    },
+    {
+      "id": 3,
+      "name": "Garden Salad",
+      "description": "Lettuce, Carrots, Cherry Tomatoes, Red Onion, Ranch Dressing",
+      "image": "https://example.com/images/garden_salad.jpg",
+      "price": 8.99,
+      "button": "Add to Cart"
+    }
+  ]
+  
