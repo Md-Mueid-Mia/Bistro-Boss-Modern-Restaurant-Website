@@ -24,7 +24,7 @@ const Order = () => {
     <div >
         <Helmet>
         <meta charSet="utf-8" />
-        <title>CULINARY CROWN || Order Food</title>
+        <title>Bistro Boss|| Order Food</title>
       </Helmet>
       <Cover
         img={orderImg}

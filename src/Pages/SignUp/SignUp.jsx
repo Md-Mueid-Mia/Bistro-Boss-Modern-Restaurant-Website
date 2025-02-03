@@ -51,7 +51,7 @@ const SignUp = () => {
     <>
     <Helmet>
         <meta charSet="utf-8" />
-        <title>CULINARY CROWN || SignUp</title>
+        <title>Bistro Boss|| SignUp</title>
       </Helmet>
     <div className="hero bg-base-200 min-h-screen">
       <div className="hero-content flex-col md:flex-row">

@@ -23,7 +23,7 @@ const Menu = () => {
     <div>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>CULINARY CROWN || Our Menu</title>
+        <title>Bistro Boss|| Our Menu</title>
       </Helmet>
       <Cover
         img={banner}

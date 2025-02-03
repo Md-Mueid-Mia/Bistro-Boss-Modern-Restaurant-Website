@@ -1,10 +1,10 @@
-# 🍽️ CULINARY CROWN | Modern Restaurant Website
+# 🍽️ Bistro Boss| Modern Restaurant Website
 
 [![Live Site](https://bistro-boss-22521.web.app)
 
 
 ## 🌟 Overview
-CULINARY CROWN is a modern restaurant management system with online ordering capabilities, user authentication, and an admin dashboard.
+Bistro Bossis a modern restaurant management system with online ordering capabilities, user authentication, and an admin dashboard.
 
 ## ✨ Key Features
 - 🛒 Online Food Ordering System

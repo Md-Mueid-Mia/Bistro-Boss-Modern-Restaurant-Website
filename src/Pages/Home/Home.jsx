@@ -13,7 +13,7 @@ const Home = () => {
     <div>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>CULINARY CROWN || Home</title>
+        <title>Bistro Boss|| Home</title>
       </Helmet>
       <Banner />
      <Category />
