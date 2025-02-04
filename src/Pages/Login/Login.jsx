@@ -3,8 +3,10 @@ import { loadCaptchaEnginge, LoadCanvasTemplate, validateCaptcha } from 'react-s
 import { AuthContext } from '../../providers/AuthProvider';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
+import loginAnimation from "../../../public/login.json"
 import Swal from 'sweetalert2';
 import SocialLogin from '../../components/SocialLogin';
+import Lottie from 'lottie-react';
 
 const Login = () => {
     const [disabled, setDisabled] = useState(true);
@@ -59,9 +61,12 @@ const Login = () => {
             <div className="hero min-h-screen bg-base-200">
                 <div className="hero-content flex-col md:flex-row-reverse">
                     <div className="text-center md:w-1/2 lg:text-left">
-                    <img src="/src/assets/undraw_secure-login_m11a.svg" alt="" />
-                        </div>
-                    <div className="card md:w-1/2 max-w-sm shadow-2xl bg-base-100">
+                    <Lottie 
+                            animationData={loginAnimation}
+                            loop={true}
+                            className="w-full h-full"
+                        /> </div>
+                    <div className="card md:w-1/2 max-w-sm shadow-2xl shrink-0 bg-base-100">
                         <form onSubmit={handleLogin} className="card-body">
                             <div className="form-control">
                                 <label className="label">

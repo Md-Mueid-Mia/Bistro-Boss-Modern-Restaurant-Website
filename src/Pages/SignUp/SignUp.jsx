@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import img from "../../assets/others/authentication2.png";
+import signUpAnimation from "../../../public/signup.json"
 import { FaFacebook } from "react-icons/fa6";
 import { IoLogoGoogle } from "react-icons/io5";
 import { FaGithub } from "react-icons/fa6";
@@ -9,6 +10,7 @@ import { AuthContext } from "../../providers/AuthProvider";
 import { Helmet } from "react-helmet";
 import useAxiosPublic from "../../Hooks/useAxiosPublic";
 import SocialLogin from "../../components/SocialLogin";
+import Lottie from "lottie-react";
 
 const SignUp = () => {
   const axiosPublic = useAxiosPublic();
@@ -56,7 +58,11 @@ const SignUp = () => {
     <div className="hero bg-base-200 min-h-screen">
       <div className="hero-content flex-col md:flex-row">
         <div className="text-center md:w-1/2 lg:text-left">
-          <img src={img} alt="" />
+        <Lottie
+                            animationData={signUpAnimation}
+                            loop={true}
+                            className="w-full h-full"
+                        />
         </div>
         <div className="card md:w-1/2 max-w-sm shrink-0 shadow-2xl">
           {/* Use handleSubmit from react-hook-form */}
