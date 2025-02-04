@@ -14,7 +14,7 @@ const PopularMenu = () => {
             <div className='relative mb-5'>
                 <img src={img} alt="" />
                 <div className='bg-base-100 hidden md:flex flex-col max-w-6xl text-center absolute p-24  top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]'>
-                    <h2 className= 'text-2xl md:text-5xl mb-3'>CULINARY CROWN</h2>
+                    <h2 className= 'text-2xl md:text-5xl mb-3'>Bistro Boss</h2>
                     <p className=' leading-6 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus, libero accusamus laborum deserunt ratione dolor officiis praesentium! Deserunt magni aperiam dolor eius dolore at, nihil iusto ducimus incidunt quibusdam nemo.</p>
                 </div>
             </div>

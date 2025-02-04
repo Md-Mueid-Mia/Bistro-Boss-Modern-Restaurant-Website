@@ -92,7 +92,7 @@ const Navbar = () => {
               {links}
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl">CULINARY CROWN</a>
+          <a className="btn btn-ghost text-xl">Bistro Boss</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           {/* Align navigation items in a single horizontal line */}

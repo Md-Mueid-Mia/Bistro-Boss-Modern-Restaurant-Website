@@ -1,6 +1,6 @@
 # 🍽️ Bistro Boss| Modern Restaurant Website
 
-[![Website Preview](https://i.ibb.co/placeholder-image/bistro-boss-preview.png)](https://bistro-boss-22521.web.app)
+[![Website Preview](https://i.ibb.co.com/N2sphw1c/bistro.png)](https://bistro-boss-22521.web.app)
 
 🔗 [Live Site](https://bistro-boss-22521.web.app)
 
@@ -47,7 +47,7 @@ Bistro Boss is a modern restaurant management system with online ordering capabi
 git clone https://github.com/yourusername/culinary-crown.git
 
 # Install dependencies
-cd culinary-crown
+cd Bistro Boss
 npm install
 
 # Start development server
