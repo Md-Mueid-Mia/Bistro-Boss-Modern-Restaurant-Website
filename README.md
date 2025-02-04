@@ -1,6 +1,8 @@
 # 🍽️ Bistro Boss| Modern Restaurant Website
 
-[![Live Site](https://bistro-boss-22521.web.app)
+[![Website Preview](https://i.ibb.co/placeholder-image/bistro-boss-preview.png)](https://bistro-boss-22521.web.app)
+
+🔗 [Live Site](https://bistro-boss-22521.web.app)
 
 
 ## 🌟 Overview
