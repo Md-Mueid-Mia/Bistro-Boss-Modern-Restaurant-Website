@@ -36,6 +36,45 @@ Bistro Boss is a modern restaurant management system with online ordering capabi
 
 ## 🚀 Getting Started
 
+### Dependencies
+
+#### Production Dependencies
+
+{
+  "dependencies": {
+    "@stripe/stripe-js": "^2.1.0",
+    "@tanstack/react-query": "^4.32.0",
+    "axios": "^1.4.0",
+    "firebase": "^10.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet-async": "^1.3.0",
+    "react-hook-form": "^7.45.4",
+    "react-icons": "^4.10.1",
+    "react-router-dom": "^6.14.2",
+    "sweetalert2": "^11.7.20",
+    "swiper": "^10.1.0"
+  }
+}
+
+#### Development Dependencies
+
+{
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.14",
+    "daisyui": "^3.5.0",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  }
+}
+
 ### Prerequisites
 - Node.js
 - npm/yarn
@@ -52,3 +91,4 @@ npm install
 
 # Start development server
 npm run dev
+
